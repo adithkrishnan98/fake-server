@@ -85,7 +85,7 @@
       ],
       "formated_deadline": "21/9/2021",
       "date_added": "19/9/2021",
-      "priority": 2,
+      "priority": 3,
       "id": 10
     },
     {
@@ -98,7 +98,7 @@
       ],
       "formated_deadline": "01/10/2021",
       "date_added": "29/9/2021",
-      "priority": "1",
+      "priority": "2",
       "id": 11
     },
     {
@@ -122,7 +122,7 @@
       "status": "pending",
       "formated_deadline": "05/10/2021",
       "date_added": "04/10/2021",
-      "priority": "1",
+      "priority": "3",
       "tags": [
         "shopping",
         "personal"
@@ -135,7 +135,7 @@
       "desc": "learn and apply redux in the react app",
       "formated_deadline": "06/10/2021",
       "date_added": "04/10/2021",
-      "priority": "1",
+      "priority": "2",
       "id": 14,
       "tags": [
         "work"
