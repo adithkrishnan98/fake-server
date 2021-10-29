@@ -7,8 +7,8 @@
       "tags": [
         "personal"
       ],
-      "formated_deadline": "30/9/2021",
-      "date_added": "30/9/2021",
+      "formated_deadline": "30-Sep-2021",
+      "date_added": "28-Sep-2021",
       "priority": 1,
       "id": 1
     },
@@ -16,8 +16,8 @@
       "title": "Fix doctor's appointment",
       "status": "pending",
       "desc": "call neobone clinic and ask for dr.naresh",
-      "formated_deadline": "25/9/2021",
-      "date_added": "22/9/2021",
+      "formated_deadline": "25-Sep-2021",
+      "date_added": "22-Sep-2021",
       "priority": 2,
       "id": 3,
       "tags": [
@@ -29,8 +29,8 @@
       "title": "Get apple and oranges",
       "status": "pending",
       "desc": "4 apples and 5 oranges",
-      "formated_deadline": "30/9/2021",
-      "date_added": "26/9/2021",
+      "formated_deadline": "30-Oct-2021",
+      "date_added": "26-Oct-2021",
       "priority": 3,
       "id": 5,
       "tags": [
@@ -45,8 +45,8 @@
       "tags": [
         "personal"
       ],
-      "formated_deadline": "19/8/2021",
-      "date_added": "24/9/2021",
+      "formated_deadline": "19-Oct-2021",
+      "date_added": "24-Oct-2021",
       "priority": 1,
       "id": 6
     },
@@ -58,8 +58,8 @@
         "work",
         "health"
       ],
-      "formated_deadline": "21/02/2021",
-      "date_added": "20/9/2021",
+      "formated_deadline": "21-Oct-2021",
+      "date_added": "18-Oct-2021",
       "priority": 2,
       "id": 7
     },
@@ -71,8 +71,8 @@
         "personal",
         "work"
       ],
-      "formated_deadline": "28/9/2021",
-      "date_added": "21/9/2021",
+      "formated_deadline": "28-Sep-2021",
+      "date_added": "21-Sep-2021",
       "priority": 3,
       "id": 8
     },
@@ -83,8 +83,8 @@
       "tags": [
         "personal"
       ],
-      "formated_deadline": "21/9/2021",
-      "date_added": "19/9/2021",
+      "formated_deadline": "21-Sep-2021",
+      "date_added": "19-Sep-2021",
       "priority": 3,
       "id": 10
     },
@@ -96,8 +96,8 @@
         "personal",
         "work"
       ],
-      "formated_deadline": "01/10/2021",
-      "date_added": "29/9/2021",
+      "formated_deadline": "01-Oct-2021",
+      "date_added": "29-Sep-2021",
       "priority": "2",
       "id": 11
     },
@@ -111,8 +111,8 @@
         "shopping",
         "health"
       ],
-      "formated_deadline": "03/10/2021",
-      "date_added": "01/10/2021",
+      "formated_deadline": "13-Oct-2021",
+      "date_added": "10-Oct-2021",
       "priority": "1",
       "id": 12
     },
@@ -120,8 +120,8 @@
       "title": "Get milk and eggs",
       "desc": "Milk - 12 nos, white, best brand and milk - 4 nos blue packet",
       "status": "pending",
-      "formated_deadline": "05/10/2021",
-      "date_added": "04/10/2021",
+      "formated_deadline": "15-Oct-2021",
+      "date_added": "12-Oct-2021",
       "priority": "3",
       "tags": [
         "shopping",
@@ -133,8 +133,8 @@
       "title": "Learn Redux in React",
       "status": "pending",
       "desc": "learn and apply redux in the react app",
-      "formated_deadline": "06/10/2021",
-      "date_added": "04/10/2021",
+      "formated_deadline": "06-Oct-2021",
+      "date_added": "04-Oct-2021",
       "priority": "2",
       "id": 14,
       "tags": [
